@@ -1,0 +1,29 @@
+<div><r></r><bl></bl><bl></bl><bl></bl><r></r></div>
+<div><r></r><bl></bl><bl></bl><bl></bl><r></r></div>
+<div><r></r><bl></bl><bl></bl><bl></bl><r></r></div>
+<style>
+  body {
+    background: #FADE8B;
+    display: grid;
+    place-content: center;
+    gap: 25px;
+  }
+  div {
+    display: flex;
+    gap: 15px;
+  }
+  div > * {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%
+  }
+  div > :nth-child(3){
+    border-radius: 0;
+  }
+  bl {
+    background: #556D7F;
+  }
+  r {
+    background: #D24444;
+  }
+</style>
