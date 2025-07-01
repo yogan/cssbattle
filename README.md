@@ -2,8 +2,15 @@
 
 ## Battles
 
-- [Battle #1: Simply Square](https://cssbattle.dev/play/1):
+### [Battle #1](https://cssbattle.dev/battle/1)
+
+- [#1: Simply Square](https://cssbattle.dev/play/1):
   [0001.html](./0001.html)
+
+### [Battle #19](https://cssbattle.dev/battle/19)
+
+- [#111: Rain Drops](https://cssbattle.dev/play/111):
+  [0111.html](./0111.html)
 
 ## Daily Targets
 
