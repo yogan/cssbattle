@@ -18,4 +18,6 @@
   [2025-06-29.html](./2025-06-29.html)
 - [2025-06-30](https://cssbattle.dev/play/MDtNGE9Sev1z7Xa6QL0s):
   [2025-06-30.html](./2025-06-30.html)
+- [2025-07-01](https://cssbattle.dev/play/EcElU81kiG5yf5xLUxlX):
+  [2025-07-01.html](./2025-07-01.html)
 
