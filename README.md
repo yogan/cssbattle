@@ -9,6 +9,8 @@
 
 ### [Battle #19](https://cssbattle.dev/battle/19)
 
+- [#109: Curtain](https://cssbattle.dev/play/109):
+  [0109.html](./0109.html)
 - [#111: Rain Drops](https://cssbattle.dev/play/111):
   [0111.html](./0111.html)
 
