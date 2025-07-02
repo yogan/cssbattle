@@ -11,6 +11,8 @@
 
 - [#109: Curtain](https://cssbattle.dev/play/109):
   [0109.html](./0109.html)
+- [#110: Sunrays](https://cssbattle.dev/play/110):
+  [0110.html](./0110.html)
 - [#111: Rain Drops](https://cssbattle.dev/play/111):
   [0111.html](./0111.html)
 
