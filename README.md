@@ -26,4 +26,5 @@
   [2025-07-01.html](./2025-07-01.html)
 - [2025-07-02](https://cssbattle.dev/play/qoEpGLPxUTEkKY6uWqNX):
   [2025-07-02.html](./2025-07-02.html)
-
+- [2025-07-03](https://cssbattle.dev/play/qoEpGLPxUTEkKY6uWqNX):
+  [2025-07-03.html](./2025-07-03.html)
