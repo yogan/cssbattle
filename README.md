@@ -28,3 +28,5 @@
   [2025-07-02.html](./2025-07-02.html)
 - [2025-07-03](https://cssbattle.dev/play/qoEpGLPxUTEkKY6uWqNX):
   [2025-07-03.html](./2025-07-03.html)
+- [2025-07-07](https://cssbattle.dev/play/OUbgAQQpf5Yj5uNzu4lB):
+  [2025-07-07.html](./2025-07-07.html) (100% / 141 chars / 704.33 score)
