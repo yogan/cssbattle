@@ -30,3 +30,6 @@
   [2025-07-03.html](./2025-07-03.html)
 - [2025-07-07](https://cssbattle.dev/play/OUbgAQQpf5Yj5uNzu4lB):
   [2025-07-07.html](./2025-07-07.html) (100% / 141 chars / 704.33 score)
+- [2025-07-08](https://cssbattle.dev/play/jqh9M1Oh1Op5Mrl02Dq9):
+  - [2025-07-08-box-shadow.html](./2025-07-08-box-shadow.html) (99.4% / 208 chars / 587.78 score)
+  - [2025-07-08-grid.html](./2025-07-08-grid.html) (100% / 265 chars / 632 score)
