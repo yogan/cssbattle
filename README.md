@@ -16,6 +16,11 @@
 - [#111: Rain Drops](https://cssbattle.dev/play/111)
   - [`0111.html`](./0111.html) (100% / 388 chars / 609.91 score, `grid`, `position: absolute`, `border-radius`, `rotate`)
 
+### [Battle #36](https://cssbattle.dev/battle/36)
+
+- [#235: Website](https://cssbattle.dev/play/235)
+  - [`0235.html`](./0235.html) (100% / 500 chars / 603.41 score, `grid`, `flex`, `justify-content`, `gap`)
+
 ## Daily Targets
 
 - [2025-06-29](https://cssbattle.dev/play/nJyGqyDaZqTbG2DG8qrC)
