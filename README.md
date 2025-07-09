@@ -20,6 +20,8 @@
 
 - [#235: Website](https://cssbattle.dev/play/235)
   - [`0235.html`](./0235.html) (100% / 500 chars / 603.41 score, `grid`, `flex`, `justify-content`, `gap`)
+- [#236: Concentrate](https://cssbattle.dev/play/236)
+  - [`0236.html`](./0236.html) (100% / 242 chars / 639.48 score, `grid: auto-flow/repeat`, `radial-gradient`, `clip-path: inset()`, `q` units)
 
 ## Daily Targets
 
