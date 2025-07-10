@@ -10,7 +10,7 @@
 ### [Battle #19](https://cssbattle.dev/battle/19)
 
 - [#109: Curtain](https://cssbattle.dev/play/109)
-  - [`0109.html`](./0109.html) (100% / 325 chars / 618.06 score, `grid-template-columns: repeat()`, `border-radius`)
+  - [`0109.html`](./0109.html) (100% / 251 chars / 636.57 score, `grid-template-columns: repeat()`, `border-radius`)
 - [#110: Sunrays](https://cssbattle.dev/play/110)
   - [`0110.html`](./0110.html) (99.7% / 418 chars / 693.36 score, `position: absolute`, `border-radius`, `rotate`)
 - [#111: Rain Drops](https://cssbattle.dev/play/111)
