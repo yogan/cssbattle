@@ -5,7 +5,7 @@
 ### [Battle #1](https://cssbattle.dev/battle/1)
 
 - [#1: Simply Square](https://cssbattle.dev/play/1)
-  - [`0001.html`](./0001.html) (100% / 155 chars / 691.3 score, `margin`, `width`, `height`)
+  - [`0001.html`](./0001.html) (100% / 86 chars / 776.23 score, `border`, `margin`)
 
 ### [Battle #19](https://cssbattle.dev/battle/19)
 
