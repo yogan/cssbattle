@@ -14,7 +14,7 @@
 - [#110: Sunrays](https://cssbattle.dev/play/110)
   - [`0110.html`](./0110.html) (99.7% / 371 chars / 593.45 score, `position: fixed`, `border-radius`, `rotate`)
 - [#111: Rain Drops](https://cssbattle.dev/play/111)
-  - [`0111.html`](./0111.html) (100% / 388 chars / 609.91 score, `grid`, `position: absolute`, `border-radius`, `rotate`)
+  - [`0111.html`](./0111.html) (100% / 257 chars / 634.54 score, `grid`, `position: fixed`, `border-radius`, `rotate`)
 
 ### [Battle #36](https://cssbattle.dev/battle/36)
 
