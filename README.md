@@ -42,3 +42,5 @@
   - [`2025-07-08-grid.html`](./2025-07-08-grid.html) (100% / 265 chars / 632 score, `grid`, `grid-area`)
 - [2025-07-09](https://cssbattle.dev/play/jj7YQvOtHuqRHcnRxYls)
   - [`2025-07-09.html`](./2025-07-09.html) (100% / 267 chars / 631.4 score, `grid`, `:nth-child(even)`)
+- [2025-07-10](https://cssbattle.dev/play/lE3H9aNN7mjyxaUAm7Ij)
+  - [`2025-07-10.html`](./2025-07-10.html) (100% / 515 chars / 602.95 score, `position: fixed`, `border-radius`)
