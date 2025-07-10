@@ -6,6 +6,8 @@
 
 - [#1: Simply Square](https://cssbattle.dev/play/1)
   - [`0001.html`](./0001.html) (100% / 86 chars / 776.23 score, `border`, `margin`)
+- [#2: Carrom](https://cssbattle.dev/play/2)
+  - [`0002.html`](./0002.html) (100% / 143 chars / 702.36 score, `box-shadow`)
 
 ### [Battle #19](https://cssbattle.dev/battle/19)
 
