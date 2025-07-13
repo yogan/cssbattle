@@ -50,3 +50,5 @@
   - [`2025-07-11.html`](./2025-07-11.html) (100% / 285 chars / 626.45 score, `position: fixed`, `border-radius`, `box-shadow`, `-webkit-box-reflect`)
 - [2025-07-12](https://cssbattle.dev/play/zGV15jqNGthtIZSLT0KV)
   - [`2025-07-12.html`](./2025-07-12.html) (100% / 251 chars / 636.57 score, `grid`, `:nth-child(odd)`)
+- [2025-07-13](https://cssbattle.dev/play/4K1nE3mlF0aqtgqqb2cE)
+  - [`2025-07-13.html`](./2025-07-13.html) (100% / 179 chars / 672.63 score, `grid`, `gap`)
