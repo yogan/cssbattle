@@ -21,7 +21,7 @@
 ### [Battle #36](https://cssbattle.dev/battle/36)
 
 - [#235: Website](https://cssbattle.dev/play/235)
-  - [`0235.html`](./0235.html) (100% / 500 chars / 603.41 score, `grid`, `flex`, `justify-content`, `gap`)
+  - [`0235.html`](./0235.html) (100% / 455 chars / 605.23 score, `grid`, `flex`, `justify-content`, `gap`)
 - [#236: Concentrate](https://cssbattle.dev/play/236)
   - [`0236.html`](./0236.html) (100% / 242 chars / 639.48 score, `grid: auto-flow/repeat`, `radial-gradient`, `clip-path: inset()`, `q` units)
 - [#237: Round Castle](https://cssbattle.dev/play/237)
