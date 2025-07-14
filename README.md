@@ -54,3 +54,5 @@
   - [`2025-07-12.html`](./2025-07-12.html) (100% / 251 chars / 636.57 score, `grid`, `:nth-child(odd)`)
 - [2025-07-13](https://cssbattle.dev/play/4K1nE3mlF0aqtgqqb2cE)
   - [`2025-07-13.html`](./2025-07-13.html) (100% / 179 chars / 672.63 score, `grid`, `gap`)
+- [2025-07-14](https://cssbattle.dev/play/mQBoj1aRRGKFdqIMHsbz)
+  - [`2025-07-14.html`](./2025-07-14.html) (100% / 287 chars / 620.84 score, `margin`, `border-radius`)
