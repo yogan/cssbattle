@@ -26,6 +26,8 @@
   - [`0236.html`](./0236.html) (100% / 242 chars / 639.48 score, `grid: auto-flow/repeat`, `radial-gradient`, `clip-path: inset()`, `q` units)
 - [#237: Round Castle](https://cssbattle.dev/play/237)
   - [`0237.html`](./0237.html) (100% / 371 chars / 611.65 score, `grid`, `[repeating-]linear-gradient`, `position: fixed`)
+- [#238: Rising Sun](https://cssbattle.dev/play/238)
+  - [`0238.html`](./0238.html) (99.2% / 348 chars / 583.5 score, `grid`, `position: fixed`, `border`, `border-radius`)
 
 ## Daily Targets
 
