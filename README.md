@@ -58,3 +58,5 @@
   - [`2025-07-13.html`](./2025-07-13.html) (100% / 179 chars / 672.63 score, `grid`, `gap`)
 - [2025-07-14](https://cssbattle.dev/play/mQBoj1aRRGKFdqIMHsbz)
   - [`2025-07-14.html`](./2025-07-14.html) (100% / 287 chars / 620.84 score, `margin`, `border-radius`)
+- [2025-07-15](https://cssbattle.dev/play/z2KAKTtg7X5PYRuGJTSn)
+  - [`2025-07-15.html`](./2025-07-15.html) (99.8% / 202 chars / 595.79 score, `font-size`, `letter-spacing`, `position: fixed`, `-webkit-box-reflect`)
