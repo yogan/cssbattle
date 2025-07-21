@@ -62,3 +62,5 @@
   - [`2025-07-15.html`](./2025-07-15.html) (99.8% / 202 chars / 595.79 score, `font-size`, `letter-spacing`, `position: fixed`, `-webkit-box-reflect`)
 - [2025-07-16](https://cssbattle.dev/play/LEktqIDBDMs00Xv8o10m)
   - [`2025-07-16.html`](./2025-07-16.html) (100% / 317 chars / 619.49 score, `grid`, `border-radius`, `position: fixed`)
+- [2025-07-21](https://cssbattle.dev/play/SYYHh3iEq1fLX3reqRCU)
+  - [`2025-07-21.html`](./2025-07-21.html) (100% / 353 chars / 613.83 score, `border`, `border-radius`, `clip-path: inset()`, `grid`, `position: fixed`)
