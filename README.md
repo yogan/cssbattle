@@ -28,6 +28,8 @@
   - [`0237.html`](./0237.html) (100% / 371 chars / 611.65 score, `grid`, `[repeating-]linear-gradient`, `position: fixed`)
 - [#238: Rising Sun](https://cssbattle.dev/play/238)
   - [`0238.html`](./0238.html) (99.2% / 348 chars / 583.5 score, `grid`, `position: fixed`, `border`, `border-radius`)
+- [#239: Waves](https://cssbattle.dev/play/239)
+  - [`0239.html`](./0239.html) (100% / 393 chars / 609.45 score, `position: fixed`, `border-radius`, `transform: rotate()`)
 
 ## Daily Targets
 
