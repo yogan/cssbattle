@@ -34,6 +34,8 @@
   - [`0240.html`](./0240.html) (100% / 518 chars / 602.87 score, `grid`, `border-radius`, `position: fixed`, `box-shadow`)
 - [#241: Mint Typewriter](https://cssbattle.dev/play/241)
   - [`0241.html`](./0241.html) (100% / 439 chars / 606.09 score, `grid`, `border-radius`, `position: fixed`)
+- [#242: Orbital Tiles](https://cssbattle.dev/play/242)
+  - [`0242.html`](./0242.html) (99.9% / 383 chars / 597.43 score, `grid`, `border-radius`, `position: fixed`, `box-shadow`)
 
 ## Daily Targets
 
