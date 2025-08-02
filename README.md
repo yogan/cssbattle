@@ -30,6 +30,8 @@
   - [`0238.html`](./0238.html) (99.2% / 348 chars / 583.5 score, `grid`, `position: fixed`, `border`, `border-radius`)
 - [#239: Waves](https://cssbattle.dev/play/239)
   - [`0239.html`](./0239.html) (100% / 393 chars / 609.45 score, `position: fixed`, `border-radius`, `transform: rotate()`)
+- [#240: Snapshot](https://cssbattle.dev/play/240)
+  - [`0240.html`](./0240.html) (100% / 518 chars / 602.87 score, `grid`, `border-radius`, `position: fixed`, `box-shadow`)
 
 ## Daily Targets
 
