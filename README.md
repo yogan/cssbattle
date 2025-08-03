@@ -18,7 +18,7 @@
 - [#111: Rain Drops](https://cssbattle.dev/play/111)
   - [`0111.html`](./0111.html) (100% / 257 chars / 634.54 score, `grid`, `position: fixed`, `border-radius`, `rotate`)
 
-### [Battle #36](https://cssbattle.dev/battle/36)
+### [Battle #36](https://cssbattle.dev/battle/36) (Rank 101, Score 4856.09)
 
 - [#235: Website](https://cssbattle.dev/play/235)
   - [`0235.html`](./0235.html) (100% / 455 chars / 605.23 score, `grid`, `flex`, `justify-content`, `gap`)
