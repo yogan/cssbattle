@@ -76,3 +76,5 @@
   - [`2025-07-23.html`](./2025-07-23.html) (100% / 325 chars / 618.06 score, `grid`, `position: fixed`, `-webkit-box-reflect`)
 - [2025-07-24](https://cssbattle.dev/play/PlTclcAbU9L9EWDvbTQE)
   - [`2025-07-24.html`](./2025-07-24.html) (100% / 229 chars / 639.09 score, `border-radius`, `margin`, `padding-top`)
+- [2025-08-22](https://cssbattle.dev/play/meqzxoysSSjCTt6NVx5H)
+  - [`2025-08-22.html`](./2025-08-22.html) (100% / 170 chars / 679.14 score, `position: fixed`, `border`, `border-radius`)
