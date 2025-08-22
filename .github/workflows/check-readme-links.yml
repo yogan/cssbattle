@@ -1,0 +1,23 @@
+name: Check README Links
+
+on:
+  push:
+  schedule:
+    # run every night at 2:42 UTC (3:42/4:42 German time)
+    - cron: '42 3 * * *'
+
+jobs:
+  linkspector:
+    # runs-on: ubuntu-latest
+    # ↑ fails with "No usable sandbox!", see:
+    # https://github.com/puppeteer/puppeteer/issues/12818
+    runs-on: ubuntu-22.04
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+      - name: Check README links
+        run: bunx @umbrelladocs/linkspector check
